@@ -12,13 +12,8 @@ body {
 
 header {
     border-bottom: 2px solid #cccccc;
-  }
-
-.head-section {
-    width: 960px;
-    margin: auto;
-
 }
+
 
 h1 {
     background-color: #4aaaa5;
@@ -41,17 +36,11 @@ h2 {
     width: 205px;
 }
 
-.foot {
-    width: 100%;
-    position: absolute;
-    text-align: center;
-    border-top: 1px solid grey;
-    margin-top: 20px;
-    border-top: #4aaaa5 8px solid;
-    background: #777777;
+footer {
+    border-top: solid 8px #4aaaa5;
+}
     
 
-}
 
 .col-sm-10 {
     background-color: #ffffff;
