@@ -6,7 +6,7 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     letter-spacing: .60px;        
     margin: 0 auto;
-    box-sizing: border-box;
+   
 
 }
 
@@ -21,7 +21,7 @@ h1 {
     color: #fff;
     margin: 0px;
     padding: 25px;
-    float: left;
+    
 }
 
 h2 {
@@ -31,18 +31,12 @@ h2 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-.profile-pic {
-    height: 255px;
-    width: 205px;
+
+.btn {
+    background-color: #4aaaa5;
+    color: #FFF;
 }
 
 footer {
     border-top: solid 8px #4aaaa5;
-}
-    
-
-
-.col-sm-10 {
-    background-color: #ffffff;
-    margin: auto;
 }
